@@ -1,4 +1,4 @@
-const apiUrl = "http://localhost:5000";
+const apiUrl = "https://login-signup-sw0r.onrender.com";
 
 // Function to toggle between Login and Register forms
 function toggleForms() {
